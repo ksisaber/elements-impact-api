@@ -3,6 +3,7 @@ Elements Impact — Article Search API
 Recherche d'articles scientifiques via OpenAlex (gratuit, sans clé)
 """
 
+
 import httpx
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
